@@ -12,7 +12,7 @@ Example:
 python3 cltd.py -p C:\\Users\\admin
 ```
 
-so important to use double " \ " !!!
++ so important to use double " \ " !!!
 
 # How clone?
 ```
