@@ -12,6 +12,8 @@ Example:
 python3 cltd.py -p C:\\Users\\admin
 ```
 
+so important to use double " \ " !!!
+
 # How clone?
 ```
 git clone https://github.com/Zrexer/ToxicDIR
