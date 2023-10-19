@@ -13,7 +13,7 @@ fileList = []
 folderList = []
 
 def usage():
-    return """usage: python3 cltd.py [-h / --help] [-p / --path] #<file name>
+    return """usage: python3 cltd.py [-h / --help] [-p / --path] #<path>
 windows: python3 cltd.py -p C:\\Users\\sysName
 linux: python3 cltd.py -p ../../usr/bin"""
 
